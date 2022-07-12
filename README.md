@@ -19,6 +19,12 @@ postman을 통하여서 확인하여 봅니다.
 ![image](https://user-images.githubusercontent.com/91523484/178413819-4f7ae6c8-04b1-48e5-807f-2630e3fee198.png)
 ![image](https://user-images.githubusercontent.com/91523484/178413846-25b22115-dc04-4c41-be82-56bb267e2e4e.png)
 ![image](https://user-images.githubusercontent.com/91523484/178413867-1de4cfd5-85af-420b-bacb-930852891df6.png)
+![image](https://user-images.githubusercontent.com/91523484/178413949-a0f6ea85-6412-4788-8d39-dac42d4b4eb7.png)
+<br/>
+![image](https://user-images.githubusercontent.com/91523484/178414020-31f9ca54-4e5d-466d-ab4b-0ae9a43461da.png)
+![image](https://user-images.githubusercontent.com/91523484/178414055-e3af44bf-8556-43e7-a70c-c43702f0ed21.png)
+![image](https://user-images.githubusercontent.com/91523484/178414100-a05859ca-d479-492b-8782-50d6d6c0806b.png)
+![image](https://user-images.githubusercontent.com/91523484/178414168-253377b6-a391-49d5-9c7c-98f39b359063.png)
 
 
 
